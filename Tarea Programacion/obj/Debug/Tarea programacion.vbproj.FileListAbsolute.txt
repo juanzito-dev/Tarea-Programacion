@@ -1,0 +1,12 @@
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\obj\Debug\Tarea programacion.vbprojAssemblyReference.cache
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\obj\Debug\Tarea programacion.vbproj.GenerateResource.cache
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\obj\Debug\Tarea programacion.vbproj.CoreCompileInputs.cache
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\bin\Debug\Tarea Programacion.exe.config
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\bin\Debug\Tarea Programacion.exe
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\bin\Debug\Tarea Programacion.pdb
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\bin\Debug\Tarea Programacion.xml
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\obj\Debug\Tarea_Programacion.Form1.resources
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\obj\Debug\Tarea_Programacion.Resources.resources
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\obj\Debug\Tarea Programacion.exe
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\obj\Debug\Tarea Programacion.xml
+C:\Users\nidde\Desktop\VisorImagenes-master\Tarea Programacion\obj\Debug\Tarea Programacion.pdb
